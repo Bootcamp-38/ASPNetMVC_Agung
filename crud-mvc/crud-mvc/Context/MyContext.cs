@@ -11,5 +11,6 @@ namespace crud_mvc.Context
     {
         public MyContext() : base("crud-mvc") { }
         public DbSet<Department> Departments { get; set; }
+        public DbSet<Division> Divisions { get; set; }
     }
 }

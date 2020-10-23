@@ -129,6 +129,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Context\MyContext.cs" />
     <Compile Include="Controllers\DepartmentsController.cs" />
+    <Compile Include="Controllers\DivisionsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -137,8 +138,17 @@
     <Compile Include="Migrations\202010220810562_addDepartment.designer.cs">
       <DependentUpon>202010220810562_addDepartment.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202010230145096_addDivision.cs" />
+    <Compile Include="Migrations\202010230145096_addDivision.designer.cs">
+      <DependentUpon>202010230145096_addDivision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202010230344495_updateDivision.cs" />
+    <Compile Include="Migrations\202010230344495_updateDivision.designer.cs">
+      <DependentUpon>202010230344495_updateDivision.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Department.cs" />
+    <Compile Include="Models\Division.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -179,9 +189,14 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Departments\Index.cshtml" />
     <Content Include="Views\Departments\Details.cshtml" />
-    <Content Include="Views\Departments\Create.cshtml" />
     <Content Include="Views\Departments\Delete.cshtml" />
     <Content Include="Views\Departments\Edit.cshtml" />
+    <Content Include="Views\Divisions\Index.cshtml" />
+    <Content Include="Views\Divisions\Details.cshtml" />
+    <Content Include="Views\Divisions\Create.cshtml" />
+    <Content Include="Views\Divisions\Edit.cshtml" />
+    <Content Include="Views\Departments\Create.cshtml" />
+    <Content Include="Views\Divisions\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -202,6 +217,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202010220810562_addDepartment.resx">
       <DependentUpon>202010220810562_addDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010230145096_addDivision.resx">
+      <DependentUpon>202010230145096_addDivision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202010230344495_updateDivision.resx">
+      <DependentUpon>202010230344495_updateDivision.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

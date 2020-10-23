@@ -1,3 +1,4 @@
+D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\crud-mvc.dll.config
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\crud-mvc.dll
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\crud-mvc.pdb
@@ -12,7 +13,6 @@ D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\roslyn\Microsoft.CodeAn
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\roslyn\Microsoft.CSharp.Core.targets
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
@@ -77,6 +77,8 @@ D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\Newtonsoft.Json.xml
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\Antlr3.Runtime.pdb
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud_mvc.Migrations.addDepartment.resources
+D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud_mvc.Migrations.addDivision.resources
+D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud_mvc.Migrations.updateDivision.resources
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud-mvc.csproj.GenerateResource.cache
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud-mvc.csproj.CoreCompileInputs.cache
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud-mvc.csproj.CopyComplete
