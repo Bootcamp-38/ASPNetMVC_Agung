@@ -84,3 +84,4 @@ D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud-mvc.csproj.C
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud-mvc.csproj.CopyComplete
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud-mvc.dll
 D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud-mvc.pdb
+D:\bootcamp\github\ASPNetMVC_Agung\crud-mvc\crud-mvc\obj\Debug\crud-mvc.csprojAssemblyReference.cache
